@@ -174,7 +174,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename"></stringProp>
+        <stringProp name="filename">~/Resultados/exec_1692390849N.csv</stringProp>
       </ResultCollector>
       <hashTree/>
     </hashTree>
