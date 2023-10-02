@@ -68,7 +68,7 @@
           <stringProp name="HTTPSampler.port">443</stringProp>
           <stringProp name="HTTPSampler.protocol">https</stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">open-banking/customers/v2/business/identifications</stringProp>
+          <stringProp name="HTTPSampler.path">/open-banking/customers/v2/business/identifications</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -151,8 +151,8 @@
           <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="Gerenciador de Cabeçalhos HTTP" enabled="true">
             <collectionProp name="HeaderManager.headers">
               <elementProp name="" elementType="Header">
-                <stringProp name="Header.name">X-Neon-Account-UUID</stringProp>
-                <stringProp name="Header.value">f5b009ab-4ebd-ea11-82dd-e577ecfe7b14</stringProp>
+                <stringProp name="Header.name">X-Neon-Account-Document</stringProp>
+                <stringProp name="Header.value">27814462000107</stringProp>
               </elementProp>
               <elementProp name="" elementType="Header">
                 <stringProp name="Header.name">Authorization</stringProp>

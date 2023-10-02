@@ -1,0 +1,133 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+2023/10/02 15:06:52.639,872,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,471,335,2,2,872,0,667
+2023/10/02 15:06:52.640,871,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,471,335,2,2,871,0,662
+2023/10/02 15:06:53.513,1530,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2033,525,2,2,1530,0,705
+2023/10/02 15:06:53.513,1532,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2033,525,2,2,1532,0,708
+2023/10/02 15:06:55.046,1449,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1027,524,2,2,1449,0,0
+2023/10/02 15:06:55.043,1469,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1027,524,2,2,1469,0,0
+2023/10/02 15:06:56.497,613,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,,479,547,2,2,613,0,404
+2023/10/02 15:06:56.514,602,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,false,,479,547,2,2,602,0,400
+2023/10/02 15:06:57.111,868,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,471,335,2,2,868,0,625
+2023/10/02 15:06:57.117,862,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,471,335,2,2,862,0,617
+2023/10/02 15:06:57.980,870,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2033,525,2,2,870,0,605
+2023/10/02 15:06:57.980,967,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2033,525,2,2,967,0,605
+2023/10/02 15:06:58.851,406,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1027,524,2,2,406,0,0
+2023/10/02 15:06:58.947,417,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1027,524,2,2,417,0,0
+2023/10/02 15:06:59.258,203,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,false,,479,547,2,2,202,0,0
+2023/10/02 15:06:59.364,204,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,,479,547,2,2,204,0,0
+2023/10/02 15:06:59.462,795,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,471,335,2,2,795,0,597
+2023/10/02 15:06:59.569,808,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,471,335,2,2,808,0,606
+2023/10/02 15:07:00.256,835,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2033,525,2,2,835,0,596
+2023/10/02 15:07:00.376,852,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2033,525,2,2,852,0,604
+2023/10/02 15:07:01.091,456,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1027,524,2,2,456,0,0
+2023/10/02 15:07:01.229,614,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1027,524,2,2,614,0,0
+2023/10/02 15:07:01.547,300,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,false,,479,547,2,2,300,0,0
+2023/10/02 15:07:01.844,211,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,,479,547,2,2,211,0,0
+2023/10/02 15:07:01.847,818,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,471,335,2,2,818,0,619
+2023/10/02 15:07:02.055,808,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,471,335,2,2,808,0,608
+2023/10/02 15:07:02.665,834,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2033,525,2,2,834,0,597
+2023/10/02 15:07:02.863,827,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2033,525,2,2,827,0,594
+2023/10/02 15:07:03.499,429,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1027,524,2,2,429,0,0
+2023/10/02 15:07:03.691,408,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1027,524,2,2,408,0,0
+2023/10/02 15:07:03.929,200,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,false,,479,547,2,2,200,0,0
+2023/10/02 15:07:04.099,197,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,,479,547,2,2,197,0,0
+2023/10/02 15:07:04.129,793,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,471,335,2,2,792,0,598
+2023/10/02 15:07:04.298,787,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,471,335,2,2,787,0,591
+2023/10/02 15:07:04.922,845,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2033,525,2,2,845,0,595
+2023/10/02 15:07:05.085,843,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2033,525,2,2,843,0,599
+2023/10/02 15:07:05.768,402,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1027,524,2,2,402,0,0
+2023/10/02 15:07:05.930,397,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1027,524,2,2,397,0,0
+2023/10/02 15:07:06.171,199,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,false,,479,547,2,2,199,0,0
+2023/10/02 15:07:06.328,197,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,,479,547,2,2,197,0,0
+2023/10/02 15:07:06.371,800,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,471,335,2,2,800,0,604
+2023/10/02 15:07:06.525,815,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,471,335,2,2,815,0,609
+2023/10/02 15:07:07.171,869,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2033,525,2,2,869,0,602
+2023/10/02 15:07:07.341,819,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2033,525,2,2,819,0,589
+2023/10/02 15:07:08.040,400,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1027,524,2,2,400,0,0
+2023/10/02 15:07:08.160,416,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1027,524,2,2,416,0,0
+2023/10/02 15:07:08.440,198,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,false,,479,547,2,2,198,0,0
+2023/10/02 15:07:08.576,200,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,,479,547,2,2,200,0,0
+2023/10/02 15:07:08.638,796,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,471,335,2,2,796,0,601
+2023/10/02 15:07:08.777,795,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,471,335,2,2,795,0,599
+2023/10/02 15:07:09.435,831,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2033,525,2,2,831,0,591
+2023/10/02 15:07:09.573,833,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2033,525,2,2,833,0,599
+2023/10/02 15:07:10.265,405,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1027,524,2,2,405,0,0
+2023/10/02 15:07:10.406,401,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1027,524,2,2,401,0,0
+2023/10/02 15:07:10.671,198,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,false,,479,547,2,2,198,0,0
+2023/10/02 15:07:10.807,203,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,,479,547,2,2,203,0,0
+2023/10/02 15:07:10.869,805,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,471,335,2,2,805,0,609
+2023/10/02 15:07:11.011,863,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,471,335,2,2,863,0,608
+2023/10/02 15:07:11.675,836,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2033,525,2,2,836,0,601
+2023/10/02 15:07:11.875,830,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2033,525,2,2,830,0,594
+2023/10/02 15:07:12.512,402,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1027,524,2,2,401,0,0
+2023/10/02 15:07:12.914,200,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,false,,479,547,2,2,200,0,0
+2023/10/02 15:07:12.706,418,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1027,524,2,2,418,0,0
+2023/10/02 15:07:13.125,204,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,,479,547,2,2,204,0,0
+2023/10/02 15:07:13.114,809,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,471,335,2,2,809,0,613
+2023/10/02 15:07:13.329,793,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,471,335,2,2,793,0,594
+2023/10/02 15:07:13.923,837,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2033,525,2,2,837,0,596
+2023/10/02 15:07:14.123,834,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2033,525,2,2,834,0,599
+2023/10/02 15:07:14.761,395,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1027,524,2,2,395,0,0
+2023/10/02 15:07:15.156,200,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,false,,479,547,2,2,200,0,0
+2023/10/02 15:07:14.958,405,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1027,524,2,2,405,0,0
+2023/10/02 15:07:15.364,200,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,,479,547,2,2,200,0,0
+2023/10/02 15:07:15.358,803,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,471,335,2,2,803,0,607
+2023/10/02 15:07:15.565,789,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,471,335,2,2,789,0,591
+2023/10/02 15:07:16.161,1084,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2033,525,2,2,1084,0,596
+2023/10/02 15:07:16.355,1026,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2033,525,2,2,1026,0,599
+2023/10/02 15:07:17.245,401,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1027,524,2,2,401,0,0
+2023/10/02 15:07:17.381,415,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1027,524,2,2,415,0,0
+2023/10/02 15:07:17.647,201,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,false,,479,547,2,2,201,0,0
+2023/10/02 15:07:17.796,199,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,,479,547,2,2,199,0,0
+2023/10/02 15:07:17.849,812,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,471,335,2,2,812,0,612
+2023/10/02 15:07:17.995,793,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,471,335,2,2,793,0,594
+2023/10/02 15:07:18.661,857,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2033,525,2,2,857,0,620
+2023/10/02 15:07:18.789,825,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2033,525,2,2,825,0,589
+2023/10/02 15:07:19.519,409,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1027,524,2,2,409,0,0
+2023/10/02 15:07:19.614,399,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1027,524,2,2,399,0,0
+2023/10/02 15:07:19.928,248,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,false,,479,547,2,2,248,0,0
+2023/10/02 15:07:20.014,258,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,,479,547,2,2,258,0,0
+2023/10/02 15:07:20.176,853,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,471,335,2,2,853,0,651
+2023/10/02 15:07:20.272,810,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,471,335,2,2,810,0,612
+2023/10/02 15:07:21.029,846,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2033,525,2,2,846,0,604
+2023/10/02 15:07:21.082,858,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2033,525,2,2,858,0,614
+2023/10/02 15:07:21.875,469,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1027,524,2,2,469,0,0
+2023/10/02 15:07:21.941,594,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1027,524,2,2,594,0,0
+2023/10/02 15:07:22.344,202,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,false,,479,547,2,2,202,0,0
+2023/10/02 15:07:22.535,198,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,,479,547,2,2,198,0,0
+2023/10/02 15:07:22.547,784,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,471,335,2,2,784,0,588
+2023/10/02 15:07:22.734,867,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,471,335,2,2,867,0,670
+2023/10/02 15:07:23.331,839,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2033,525,2,2,839,0,592
+2023/10/02 15:07:23.602,870,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2033,525,2,2,870,0,599
+2023/10/02 15:07:24.170,420,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1027,524,2,2,420,0,0
+2023/10/02 15:07:24.591,197,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,false,,479,547,2,2,197,0,0
+2023/10/02 15:07:24.472,400,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1027,524,2,2,400,0,0
+2023/10/02 15:07:24.872,199,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,,479,547,2,2,199,0,0
+2023/10/02 15:07:24.789,793,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,471,335,2,2,793,0,593
+2023/10/02 15:07:25.071,800,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,471,335,2,2,800,0,602
+2023/10/02 15:07:25.582,830,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2033,525,2,2,830,0,596
+2023/10/02 15:07:25.871,874,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2033,525,2,2,874,0,636
+2023/10/02 15:07:26.412,406,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1027,524,2,2,406,0,0
+2023/10/02 15:07:26.818,199,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,false,,479,547,2,2,199,0,0
+2023/10/02 15:07:26.745,404,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1027,524,2,2,404,0,0
+2023/10/02 15:07:27.149,199,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,,479,547,2,2,199,0,0
+2023/10/02 15:07:27.018,860,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,471,335,2,2,860,0,618
+2023/10/02 15:07:27.349,797,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,471,335,2,2,797,0,594
+2023/10/02 15:07:27.878,905,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2033,525,2,2,905,0,626
+2023/10/02 15:07:28.146,824,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2033,525,2,2,824,0,591
+2023/10/02 15:07:28.783,410,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1027,524,2,2,410,0,0
+2023/10/02 15:07:28.970,414,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1027,524,2,2,414,0,0
+2023/10/02 15:07:29.194,200,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,false,,479,547,2,2,200,0,0
+2023/10/02 15:07:29.385,202,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,,479,547,2,2,202,0,0
+2023/10/02 15:07:29.395,795,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,471,335,2,2,795,0,597
+2023/10/02 15:07:29.588,797,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,471,335,2,2,797,0,599
+2023/10/02 15:07:30.189,1865,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2033,525,2,2,1865,0,596
+2023/10/02 15:07:30.385,1736,Get Identifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2033,525,2,2,1736,0,593
+2023/10/02 15:07:32.054,406,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1027,524,2,2,406,0,0
+2023/10/02 15:07:32.121,414,Get Qualifications,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1027,524,2,2,414,0,0
+2023/10/02 15:07:32.460,657,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,false,,479,547,2,2,657,0,437
+2023/10/02 15:07:32.535,593,Get Financial-Relations,400,Bad Request,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,,479,547,2,2,593,0,394
+2023/10/02 15:07:33.118,797,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,471,335,2,2,797,0,599
+2023/10/02 15:07:33.128,791,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,471,335,2,2,791,0,593
+2023/10/02 15:07:33.919,1193,Get Identifications,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,,2980,0,2,2,0,0,662
+2023/10/02 15:07:33.915,1197,Get Identifications,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,false,,2980,0,2,2,0,0,666
