@@ -242,7 +242,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename"></stringProp>
+        <stringProp name="filename">~/Resultados/exec_1696270322W.csv</stringProp>
       </ResultCollector>
       <hashTree/>
     </hashTree>

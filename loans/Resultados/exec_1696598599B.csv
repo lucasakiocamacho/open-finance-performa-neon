@@ -1,0 +1,106 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+2023/10/06 10:23:23.480,789,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,454,309,2,2,789,0,593
+2023/10/06 10:23:23.482,793,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,454,309,2,2,793,0,598
+2023/10/06 10:23:24.270,1014,Get Contracts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,473,2,2,1014,0,592
+2023/10/06 10:23:24.276,1026,Get Contracts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,473,2,2,1026,0,593
+2023/10/06 10:23:25.285,215,Get Contracts With ContractId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2315,510,2,2,215,0,0
+2023/10/06 10:23:25.304,218,Get Contracts With ContractId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2315,510,2,2,218,0,0
+2023/10/06 10:23:25.523,212,Get Contracts Warranties,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,903,521,2,2,212,0,0
+2023/10/06 10:23:25.501,667,Get Contracts Warranties,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,903,521,2,2,667,0,0
+2023/10/06 10:23:25.735,448,Get Contracts Scheduled Instalments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1093,532,2,2,448,0,0
+2023/10/06 10:23:26.169,235,Get Contracts Scheduled Instalments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1093,532,2,2,235,0,0
+2023/10/06 10:23:26.184,243,Get Contracts Payments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1248,519,2,2,243,0,0
+2023/10/06 10:23:26.404,606,Get Contracts Payments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1248,519,2,2,606,0,394
+2023/10/06 10:23:26.427,795,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,454,309,2,2,795,0,595
+2023/10/06 10:23:27.012,796,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,454,309,2,2,796,0,598
+2023/10/06 10:23:27.222,878,Get Contracts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,473,2,2,878,0,590
+2023/10/06 10:23:28.100,212,Get Contracts With ContractId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2315,510,2,2,212,0,0
+2023/10/06 10:23:28.312,211,Get Contracts Warranties,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,903,521,2,2,211,0,0
+2023/10/06 10:23:27.808,895,Get Contracts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,473,2,2,895,0,607
+2023/10/06 10:23:28.524,207,Get Contracts Scheduled Instalments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1093,532,2,2,207,0,0
+2023/10/06 10:23:28.704,214,Get Contracts With ContractId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2315,510,2,2,214,0,0
+2023/10/06 10:23:28.731,210,Get Contracts Payments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1248,519,2,2,210,0,0
+2023/10/06 10:23:28.942,798,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,454,309,2,2,798,0,601
+2023/10/06 10:23:28.918,890,Get Contracts Warranties,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,903,521,2,2,890,0,0
+2023/10/06 10:23:29.808,606,Get Contracts Scheduled Instalments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1093,532,2,2,606,0,394
+2023/10/06 10:23:30.414,212,Get Contracts Payments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1248,519,2,2,212,0,0
+2023/10/06 10:23:29.744,919,Get Contracts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,473,2,2,919,0,594
+2023/10/06 10:23:30.663,215,Get Contracts With ContractId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2315,510,2,2,215,0,0
+2023/10/06 10:23:30.878,212,Get Contracts Warranties,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,903,521,2,2,212,0,0
+2023/10/06 10:23:31.090,211,Get Contracts Scheduled Instalments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1093,532,2,2,211,0,0
+2023/10/06 10:23:30.627,801,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,454,309,2,2,801,0,602
+2023/10/06 10:23:31.301,216,Get Contracts Payments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1248,519,2,2,216,0,0
+2023/10/06 10:23:31.517,794,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,454,309,2,2,794,0,594
+2023/10/06 10:23:31.428,905,Get Contracts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,473,2,2,905,0,606
+2023/10/06 10:23:32.333,214,Get Contracts With ContractId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2315,510,2,2,214,0,0
+2023/10/06 10:23:32.548,211,Get Contracts Warranties,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,903,521,2,2,211,0,0
+2023/10/06 10:23:32.760,213,Get Contracts Scheduled Instalments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1093,532,2,2,213,0,0
+2023/10/06 10:23:32.973,211,Get Contracts Payments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1248,519,2,2,211,0,0
+2023/10/06 10:23:32.311,907,Get Contracts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,473,2,2,907,0,594
+2023/10/06 10:23:33.218,214,Get Contracts With ContractId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2315,510,2,2,214,0,0
+2023/10/06 10:23:33.432,214,Get Contracts Warranties,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,903,521,2,2,214,0,0
+2023/10/06 10:23:33.646,215,Get Contracts Scheduled Instalments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1093,532,2,2,215,0,0
+2023/10/06 10:23:33.185,791,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,454,309,2,2,791,0,593
+2023/10/06 10:23:33.861,212,Get Contracts Payments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1248,519,2,2,212,0,0
+2023/10/06 10:23:33.976,880,Get Contracts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,473,2,2,880,0,594
+2023/10/06 10:23:34.073,795,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,454,309,2,2,795,0,597
+2023/10/06 10:23:34.856,223,Get Contracts With ContractId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2315,510,2,2,223,0,0
+2023/10/06 10:23:35.079,212,Get Contracts Warranties,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,903,521,2,2,212,0,0
+2023/10/06 10:23:35.291,212,Get Contracts Scheduled Instalments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1093,532,2,2,212,0,0
+2023/10/06 10:23:35.503,212,Get Contracts Payments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1248,519,2,2,212,0,0
+2023/10/06 10:23:34.868,899,Get Contracts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,473,2,2,899,0,598
+2023/10/06 10:23:35.767,215,Get Contracts With ContractId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2315,510,2,2,215,0,0
+2023/10/06 10:23:35.982,212,Get Contracts Warranties,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,903,521,2,2,212,0,0
+2023/10/06 10:23:36.194,212,Get Contracts Scheduled Instalments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1093,532,2,2,212,0,0
+2023/10/06 10:23:35.716,799,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,454,309,2,2,799,0,601
+2023/10/06 10:23:36.406,220,Get Contracts Payments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1248,519,2,2,220,0,0
+2023/10/06 10:23:36.515,898,Get Contracts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,473,2,2,898,0,604
+2023/10/06 10:23:36.626,798,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,454,309,2,2,798,0,595
+2023/10/06 10:23:37.413,223,Get Contracts With ContractId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2315,510,2,2,223,0,0
+2023/10/06 10:23:37.637,213,Get Contracts Warranties,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,903,521,2,2,213,0,0
+2023/10/06 10:23:37.850,213,Get Contracts Scheduled Instalments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1093,532,2,2,213,0,0
+2023/10/06 10:23:38.063,251,Get Contracts Payments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1248,519,2,2,251,0,0
+2023/10/06 10:23:37.425,1048,Get Contracts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,473,2,2,1048,0,603
+2023/10/06 10:23:38.473,216,Get Contracts With ContractId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2315,510,2,2,216,0,0
+2023/10/06 10:23:38.689,216,Get Contracts Warranties,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,903,521,2,2,216,0,0
+2023/10/06 10:23:38.314,796,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,454,309,2,2,796,0,597
+2023/10/06 10:23:38.905,210,Get Contracts Scheduled Instalments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1093,532,2,2,210,0,0
+2023/10/06 10:23:39.115,212,Get Contracts Payments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1248,519,2,2,212,0,0
+2023/10/06 10:23:39.110,899,Get Contracts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,473,2,2,899,0,600
+2023/10/06 10:23:39.328,795,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,454,309,2,2,795,0,597
+2023/10/06 10:23:40.010,220,Get Contracts With ContractId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2315,510,2,2,220,0,0
+2023/10/06 10:23:40.230,218,Get Contracts Warranties,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,903,521,2,2,218,0,0
+2023/10/06 10:23:40.449,212,Get Contracts Scheduled Instalments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1093,532,2,2,212,0,0
+2023/10/06 10:23:40.661,220,Get Contracts Payments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1248,519,2,2,220,0,0
+2023/10/06 10:23:40.124,924,Get Contracts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,473,2,2,924,0,591
+2023/10/06 10:23:41.048,217,Get Contracts With ContractId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2315,510,2,2,217,0,0
+2023/10/06 10:23:41.265,217,Get Contracts Warranties,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,903,521,2,2,217,0,0
+2023/10/06 10:23:40.881,799,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,454,309,2,2,799,0,602
+2023/10/06 10:23:41.482,214,Get Contracts Scheduled Instalments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1093,532,2,2,214,0,0
+2023/10/06 10:23:41.696,211,Get Contracts Payments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1248,519,2,2,211,0,0
+2023/10/06 10:23:41.680,887,Get Contracts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,473,2,2,887,0,596
+2023/10/06 10:23:41.907,798,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,454,309,2,2,798,0,599
+2023/10/06 10:23:42.567,213,Get Contracts With ContractId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2315,510,2,2,213,0,0
+2023/10/06 10:23:42.780,219,Get Contracts Warranties,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,903,521,2,2,219,0,0
+2023/10/06 10:23:43.000,217,Get Contracts Scheduled Instalments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1093,532,2,2,217,0,0
+2023/10/06 10:23:43.217,213,Get Contracts Payments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1248,519,2,2,213,0,0
+2023/10/06 10:23:42.706,876,Get Contracts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,473,2,2,876,0,594
+2023/10/06 10:23:43.582,225,Get Contracts With ContractId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2315,510,2,2,225,0,0
+2023/10/06 10:23:43.808,213,Get Contracts Warranties,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,903,521,2,2,213,0,0
+2023/10/06 10:23:44.022,208,Get Contracts Scheduled Instalments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1093,532,2,2,208,0,0
+2023/10/06 10:23:43.431,826,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,454,309,2,2,826,0,610
+2023/10/06 10:23:44.230,217,Get Contracts Payments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1248,519,2,2,217,0,0
+2023/10/06 10:23:44.257,890,Get Contracts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1185,473,2,2,890,0,598
+2023/10/06 10:23:44.447,799,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,454,309,2,2,799,0,601
+2023/10/06 10:23:45.148,213,Get Contracts With ContractId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,2315,510,2,2,213,0,0
+2023/10/06 10:23:45.361,210,Get Contracts Warranties,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,903,521,2,2,210,0,0
+2023/10/06 10:23:45.571,212,Get Contracts Scheduled Instalments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1093,532,2,2,212,0,0
+2023/10/06 10:23:45.783,213,Get Contracts Payments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1248,519,2,2,213,0,0
+2023/10/06 10:23:45.246,883,Get Contracts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1185,473,2,2,883,0,600
+2023/10/06 10:23:46.129,213,Get Contracts With ContractId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,2315,510,2,2,213,0,0
+2023/10/06 10:23:46.342,213,Get Contracts Warranties,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,903,521,2,2,213,0,0
+2023/10/06 10:23:46.555,213,Get Contracts Scheduled Instalments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1093,532,2,2,213,0,0
+2023/10/06 10:23:45.996,794,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,454,309,2,2,794,0,594
+2023/10/06 10:23:46.768,212,Get Contracts Payments,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1248,519,2,2,211,0,0
+2023/10/06 10:23:46.790,584,Get Contracts,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,false,,2935,0,2,2,0,0,584
+2023/10/06 10:23:46.980,393,Get Token,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,,3011,0,2,2,0,0,393
