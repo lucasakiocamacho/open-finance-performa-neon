@@ -1,0 +1,20 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+2023/10/09 17:38:15.268,882,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,463,323,2,2,882,0,678
+2023/10/09 17:38:15.268,882,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,463,323,2,2,882,0,678
+2023/10/09 17:38:16.152,939,Get Accounts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,692,525,2,2,939,0,697
+2023/10/09 17:38:17.091,204,Get Accounts With CreditCardAccountId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,852,562,2,2,204,0,0
+2023/10/09 17:38:16.152,1217,Get Accounts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,692,525,2,2,1217,0,697
+2023/10/09 17:38:17.370,202,Get Accounts With CreditCardAccountId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,852,562,2,2,202,0,0
+2023/10/09 17:38:17.295,15441,Get Accounts With Bill,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,17807,618,2,2,15441,0,0
+2023/10/09 17:38:17.572,15396,Get Accounts With Bill,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,17807,618,2,2,15396,0,0
+2023/10/09 17:38:32.735,7232,Get Accounts With Bills,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,69956,568,2,2,6634,0,395
+2023/10/09 17:38:39.967,787,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,463,323,2,2,787,0,592
+2023/10/09 17:38:40.754,808,Get Accounts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,692,525,2,2,808,0,588
+2023/10/09 17:38:41.562,205,Get Accounts With CreditCardAccountId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,852,562,2,2,205,0,0
+2023/10/09 17:38:32.968,14674,Get Accounts With Bills,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,69956,568,2,2,14280,0,395
+2023/10/09 17:38:47.643,792,Get Token,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,463,323,2,2,792,0,596
+2023/10/09 17:38:48.435,811,Get Accounts,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,692,525,2,2,811,0,595
+2023/10/09 17:38:49.246,203,Get Accounts With CreditCardAccountId,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,852,562,2,2,203,0,0
+2023/10/09 17:38:41.767,15047,Get Accounts With Bill,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,17807,618,2,2,15047,0,0
+2023/10/09 17:38:49.449,10451,Get Accounts With Bill,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,false,,2980,0,2,2,0,0,0
+2023/10/09 17:38:56.814,3087,Get Accounts With Bills,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,false,,2980,0,2,2,0,0,395
